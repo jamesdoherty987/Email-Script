@@ -1,0 +1,33 @@
+# Secrets / local config
+.env
+.env.*
+!.env.example
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# Generated outreach artefacts
+generated_proposals/
+outreach_debug.log
+
+# Scratch / intermediate sponsor batches
+sponsors_new_batch*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~

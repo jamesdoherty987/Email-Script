@@ -1,0 +1,517 @@
+date,company,email,status,details
+2026-10-12T16:00:00,Padel LK,jkdoherty123@gmail.com,SENT,01a130a0-b1d2-7573-b2f5-82b39a4ebd45
+2026-10-12T16:03:39,Padel LK,jkdoherty123@gmail.com,SENT,01a130a4-080b-76c8-8de5-acf3ffeb38b2
+2026-10-12T16:08:44,Torpey,jamesdoherty987@gmail.com,SENT,01a130a8-b087-7269-a54e-814f75045e7d
+2026-10-12T16:08:56,Torpey,jamesdoherty987@gmail.com,SENT,01a130a8-ddc5-77ff-b975-5dfbf660e2d8
+2026-10-12T16:11:23,Torpey,info@torpey.ie,SENT,01a130ab-1d35-70b6-a0e4-453c3df65151
+2026-10-12T16:11:24,Planet Health Gym Limerick,getfit@planethealthlimerick.ie,SENT,01a130ab-2165-7daf-90ee-519e895a4276
+2026-10-12T16:11:25,Gleeson Sport Scene,info@gleesonsport.ie,SENT,01a130ab-2639-7e09-b55d-3aadcaa56bf8
+2026-10-12T16:11:26,JBR Sports,sales@jbrsports.ie,SENT,01a130ab-2b08-7ae3-ba9b-adbddc72cffc
+2026-10-12T16:11:28,Go Gym Limerick,info@gogymlimerick.ie,SENT,01a130ab-2fb1-7364-8065-b277e31b27bc
+2026-10-12T16:11:29,Locke Burger,enquiries@lockeburger.com,SENT,01a130ab-3600-7b18-8c8a-a8ad2aaa8733
+2026-10-12T16:11:30,Coqbull Limerick,limerick@coqbull.com,SENT,01a130ab-3a49-78a2-b972-e886f981309c
+2026-10-12T16:11:31,Live95,julie@live95.ie,SENT,01a130ab-3ef5-7541-8124-0427be8f1cbd
+2026-10-12T16:11:33,Limerick Sports Partnership,info@limericksports.ie,SENT,01a130ab-4343-7e9d-af6c-3b9ae5a6a909
+2026-10-12T16:31:12,Cobi Sports,enquiries@cobisports.com,SENT,01a130bd-3bd3-7dcb-9f9f-1349f8f57108
+2026-10-12T16:31:15,CityGym Limerick,info@citygymlk.com,BOUNCED,01a130bd-4755-7512-81dc-c928d697a8dd | marked bounced from Resend dashboard
+2026-10-12T16:31:24,Limerick Physio Rooms,info@limerickphysiorooms.ie,SENT,01a130bd-6adf-706f-9c26-04aecec833a2
+2026-10-12T16:31:27,MyPhysio & Rehab,limerick@myphysio.ie,SENT,01a130bd-7747-7cd3-ad38-8476a874f810
+2026-10-12T16:31:30,TBB Fitness,coonagh@tbb.ie,SENT,01a130bd-81df-7a1c-bb7a-2c419ec08f40
+2026-10-12T16:31:33,Adrenalin Sports & Cycles,info@adrenalinsports.ie,SENT,01a130bd-8d1c-7165-8ab1-9a8204e762f0
+2026-10-12T16:31:36,Nature's Hand,info@natureshand.ie,SENT,01a130bd-98b1-7dc1-95dd-5f63c4890696
+2026-10-12T16:31:39,The SpitJack Limerick,limerick@thespitjack.com,SENT,01a130bd-a3ba-7215-ad09-8482a85b4357
+2026-10-12T16:31:41,The Curragower,bookings@curragower.com,SENT,01a130bd-af3d-7972-a807-60eac00531c1
+2026-10-12T16:31:44,Bobby Byrnes,sales@bobbybyrnes.ie,SENT,01a130bd-b9c6-7b49-aa92-ca23637d3d38
+2026-10-12T16:31:47,Canteen Limerick,canteenparkway@gmail.com,SENT,01a130bd-c421-774a-87eb-a0d462917517
+2026-10-12T16:31:49,Freddy's Limerick,freddysrestaurantlimerick@gmail.com,SENT,01a130bd-ce9d-724d-a0ce-ddbcc15c41ea
+2026-10-12T16:31:52,Limerick Chamber,info@limerickchamber.ie,SENT,01a130bd-d93f-7a01-8bbf-dc38b74832c5
+2026-10-12T16:31:55,Limerick City & County Council,customerservices@limerick.ie,SENT,01a130bd-e47c-7c3e-80e4-0aab2b7f107e
+2026-10-12T16:31:58,Treaty United,commercial@treatyunitedfc.com,SENT,01a130bd-ef89-749f-8783-3ccf1d51dbaf
+2026-10-12T16:32:01,Retro Barber (Hackett Barber Shop),info@retrobarbers.ie,SENT,01a130bd-fb62-7e66-beda-30147050967a
+2026-10-12T16:32:04,Figaro Barber Shop,brianfigaro@hotmail.com,SENT,01a130be-0675-7622-aea0-88d45897afd5
+2026-10-12T16:32:07,Lucky Lane,cowboys@luckylane.info,SENT,01a130be-1160-7909-a54d-39e271ef58db
+2026-10-12T16:32:10,Sweat Box Fitness Studio,sweatboxlimerick@hotmail.com,SENT,01a130be-1e13-7331-bddd-775d842b57f6
+2026-10-12T16:32:13,Mid West Physiotherapy,info@midwestphysio.ie,SENT,01a130be-28cc-76aa-84cf-864cbfad2676
+2026-10-12T16:32:15,National Driving School,info@nationaldrivingschool.ie,SENT,01a130be-3455-7620-99d9-28b73a69e5a0
+2026-10-12T16:32:19,3Dental Limerick,limerick@3dental.ie,SENT,01a130be-3f24-7cca-b6c8-2326465674d5
+2026-10-12T16:32:22,Alexandra Dental,limerick@alexandradental.ie,SENT,01a130be-4ca4-7ba5-a193-354834a4933d
+2026-10-12T16:32:25,AutoXpress Limerick,sales@autoxpress.ie,SENT,01a130be-57a5-7dec-b4e5-cf75b2bd869b
+2026-10-12T16:32:28,Limerick Motor Centre,aonghus@limerickmotorcentre.ie,SENT,01a130be-62d6-7a0f-a56f-c9ab995c53bb
+2026-10-12T16:32:30,Park View Hall Student Accommodation,parkviewhallstudents@outlook.com,SENT,01a130be-6e45-71ce-aeef-c3970f7152c3
+2026-10-12T16:32:33,Jerry Flannerys,reservations@jerryflannerys.ie,SENT,01a130be-7980-7bc7-9809-05f15d750679
+2026-10-12T16:32:36,DOH Pizzas,info@dohpizzas.ie,SENT,01a130be-8476-7705-a095-cc580f95270b
+2026-10-12T16:32:39,The Buttery,hello@thebuttery.ie,SENT,01a130be-9027-77dc-bea3-3c8127bab965
+2026-10-12T16:32:42,Copper and Spice,info@copperandspice.com,SENT,01a130be-9ab4-7f1e-b3be-35449b00a16f
+2026-10-12T16:32:45,Bradshaws Bar and Kitchen,info@bradshaws.ie,SENT,01a130be-a717-7a3e-8d97-4b0fb2c70406
+2026-10-12T16:32:48,La Cucina,castletroy@lacucina.ie,SENT,01a130be-b20d-7cc8-b831-70ef5ab2c80b
+2026-10-12T16:32:51,Finnegans Restaurant,info@mjfinnegans.ie,SENT,01a130be-bd57-7841-b629-bd11f7caa99e
+2026-10-12T16:32:53,The Green Yard Cafe,hello@greenyardcafe.ie,SENT,01a130be-c893-7544-b2be-fcd2f49f2929
+2026-10-12T16:32:56,The Top House,info@thetophouse.ie,SENT,01a130be-d339-7ac6-83af-1d8f088b3d63
+2026-10-12T16:32:59,The Hamptons Restaurant,table@hamptonsgrill.ie,SENT,01a130be-df6e-7565-919e-658f2aadcf0d
+2026-10-12T16:33:02,House Limerick,welcome@houselimerick.ie,BOUNCED,01a130be-eb75-798d-bf5a-216f7ca2e53c | marked bounced from Resend dashboard
+2026-10-12T16:33:05,Russells Catering,info@russellsbar.ie,SENT,01a130be-f6a6-7f3c-9326-ec248a811487
+2026-10-12T16:33:08,Ger Pickford Tyres,info@gerpickfordtyres.ie,SENT,01a130bf-019c-7d97-abcc-385d678b09d5
+2026-10-12T16:33:11,Mid West Tyres,cam@midwesttyres.ie,SENT,01a130bf-0d99-7369-9ecd-c088fce1e0b9
+2026-10-12T16:33:14,Modern Tyres,limerick@moderntyres.ie,SENT,01a130bf-196b-76fc-883e-9e60cd12c3d7
+2026-10-12T16:33:17,Ballysimon Tyres,ballysimontyres@gmail.com,SENT,01a130bf-2512-7a86-be3f-eb874301ad01
+2026-10-12T16:33:20,Prestige Car Valeting,info@prestigecarwashlimerick.ie,SENT,01a130bf-3034-7b53-b792-6b88d79d8c7c
+2026-10-12T16:33:23,Frank Hogan,sales@frankhogan.ie,SENT,01a130bf-3bcb-7255-89a3-935a387a7ee4
+2026-10-12T16:33:26,Lyons of Limerick,sales@lyonsoflimerick.com,SENT,01a130bf-4668-7c23-962f-4c1f10f3bd25
+2026-10-12T16:33:29,Crescent Shopping Centre,infodesk@clancourt.ie,SENT,01a130bf-50fd-76f5-b6a1-5eb43aa1d619
+2026-10-12T16:33:32,Browne Ger Print and Design,sales@browneprint.ie,SENT,01a130bf-5cfb-7f1c-a3e8-0a58d5f3d903
+2026-10-12T16:33:35,Seventh Heaven Beauty,info@seventhheavenbeauty.ie,SENT,01a130bf-69e7-7688-948d-847c268ad7dd
+2026-10-12T16:33:38,Natural Skincare,info@naturalskincare.ie,SENT,01a130bf-74fc-7686-a0fa-b373ef6c6048
+2026-10-12T16:33:40,Villageyoga,hello@villagewellness.ie,SENT,01a130bf-7ff2-7480-965f-5b5f20ce5773
+2026-10-12T16:33:43,Eatwise,anna@eatwise.ie,SENT,01a130bf-8bb1-74c9-957f-1572453fbbf2
+2026-10-12T16:33:46,Revas Spa,relax@revasspa.ie,SENT,01a130bf-95e8-736a-920a-a4ba7c89397a
+2026-10-12T16:33:49,Total Care Physio,info@totalcarephysio.ie,SENT,01a130bf-a0f6-7d63-86a2-348f78f6ce50
+2026-10-12T16:33:52,Plush Beauty,info@plushbeauty.ie,SENT,01a130bf-ab75-7bb5-a882-5b3772a6fe80
+2026-10-12T16:33:55,Feel Good Nutrition,helen@feelgoodnutrition.ie,BOUNCED,01a130bf-b640-7c69-9fa4-0320e8d3a8b4 | marked bounced from Resend dashboard
+2026-10-12T16:33:57,Adare Farm,info@adarefarm.ie,SENT,01a130bf-c1f0-77dd-a0cb-edaa29508b55
+2026-10-12T16:34:00,Ballyhoura Mushrooms,ballyhouramushrooms@gmail.com,SENT,01a130bf-cd37-7a0a-9c67-04ca0bfc1549
+2026-10-12T16:34:03,Cahills Ireland,info@cahillscheese.ie,SENT,01a130bf-d87f-7c42-80c5-cc619a5b5d88
+2026-10-12T16:34:06,Braw,hello@braw.ie,SENT,01a130bf-e5d5-7bfd-ba37-acfdd9c8be82
+2026-10-12T16:34:10,Brainstorm Design,info@brainstorm.ie,SENT,01a130bf-f0ca-7022-871e-9ec24e2c5a29
+2026-10-12T16:34:12,Dooradoyle Gym,info@dooradoylegym.com,SENT,01a130bf-fd0c-787e-8951-041f4ce0ee30
+2026-10-12T16:34:15,Castletroy Physiotherapy Clinic,info@castletroyphysio.com,SENT,01a130c0-07cf-7e85-b51c-c38ed783fe5a
+2026-10-12T16:34:19,Titan Sports,sales@titansports.ie,SENT,01a130c0-13fe-7558-80ae-d953b01b8b28
+2026-10-12T16:34:21,Suas Climbing Centre,info@suasclimbing.ie,SENT,01a130c0-1fb5-72e3-be59-af4711c50da7
+2026-10-12T16:34:24,Matchbox Fitness,info@matchboxfitness.ie,SENT,01a130c0-2996-796c-94c3-8c000db30449
+2026-10-12T16:34:27,Embody Fitness Limerick,embodyfitnesslimerick@gmail.com,SENT,01a130c0-35e4-7cdb-9709-6464bc3fed24
+2026-10-12T16:34:30,CrossFit Limerick,crossfitlimerick@gmail.com,SENT,01a130c0-4160-75db-905b-13c25540f77e
+2026-10-12T16:34:33,CrossFit PMI,info@crossfitpmi.com,SENT,01a130c0-4bfd-7afb-bbd6-e0a1fbfbf4c6
+2026-10-12T16:34:36,Urban One Fitness,info@urbanonefitness.ie,SENT,01a130c0-5739-73fc-bf92-b7cb9231b7ad
+2026-10-12T16:34:39,FIT 100,fit100hq@gmail.com,SENT,01a130c0-62e5-785e-a1d5-740618e279d9
+2026-10-12T16:34:41,The Limerick Slideby,info@thelimerickslideby.com,SENT,01a130c0-6e06-704b-bc23-05f716952ffe
+2026-10-12T16:34:44,O'Driscoll's Barbershop,info@odb.ie,SENT,01a130c0-7999-754f-b3e2-5f7e8ace6048
+2026-10-12T16:34:48,Blades Barber Shop,bladesbarbershoplimk@gmail.com,SENT,01a130c0-8505-704f-93fd-c790a82085e5
+2026-10-12T16:34:51,Kelly Richards Printing,info@kellyrichardsprinting.ie,SENT,01a130c0-9424-796e-b3b9-0eae749c693f
+2026-10-12T16:35:09,Abbey River Coffee,abbeyrivercoffee@gmail.com,SENT,01a130c0-b1e5-7686-b37a-1091047101a9
+2026-10-12T16:35:14,Story Cafe Limerick,info@storycafe.ie,SENT,01a130c0-eb01-7c9f-88cc-e202bd0ae520
+2026-10-12T16:35:19,Wildberry Cafe,wildberrycafelimerick@gmail.com,SENT,01a130c0-fdbc-7355-98bf-06e60b50caf7
+2026-10-12T16:35:24,Bean a Tí Bakery & Cafe,info@beanatibakery.ie,SENT,01a130c1-12d6-7eeb-b9cd-124cc277e589
+2026-10-12T16:35:28,The Lilac Café & Microbakery,info@thelilaccafemicrobakery.ie,SENT,01a130c1-2188-76db-b105-6c5270411de2
+2026-10-12T16:35:32,Sodalicious,jane@sodalicious.ie,SENT,01a130c1-2fc9-7e01-8373-49aa07f82a5b
+2026-10-12T16:35:36,Rift Coffee,dalton@riftcoffee.com,SENT,01a130c1-403e-7094-aff7-33f298623289
+2026-10-12T16:35:39,Harpers Coffee House,harperscoffeehouse@gmail.com,SENT,01a130c1-4e55-7632-8982-ec000ef92218
+2026-10-12T16:35:44,Javinos Caffe,javinos13@gmail.com,SENT,01a130c1-5f82-778c-aa26-f9d8422497e3
+2026-10-12T16:36:03,Workshop Coffee House & Cafe,workattheworkshop@gmail.com,SENT,01a130c1-ac50-7ae3-bde1-8c8aeaf34751
+2026-10-12T16:36:12,ACES Limerick,admin@aceslimerick.ie,SENT,01a130c1-ca44-73dc-82e1-99c68bba9ad4
+2026-10-12T16:36:17,CASK Limerick,hiya@casklimerick.com,SENT,01a130c1-de8c-751b-ad47-faf0adefb48b
+2026-10-12T16:36:26,The Bedford,sales@thebedford.ie,SENT,01a130c1-fe48-7c3a-ad2f-b7bf06d387bf
+2026-10-12T16:36:30,Katie Dalys,enquiries@katiedalyslimerick.com,SENT,01a130c2-13a1-780b-a695-50d79a13108d
+2026-10-12T16:36:43,Fordes Courtyard,info@fordescourtyard.ie,SENT,01a130c2-3ceb-774f-a412-cb77f447570f
+2026-10-12T16:36:48,The Old Quarter,info@theoldquarter.ie,SENT,01a130c2-599f-7baa-92d1-38c217d5f686
+2026-10-12T16:36:57,Westward Ho,info@westwardho.ie,SENT,01a130c2-7993-7147-af1f-55b537289a77
+2026-10-12T16:37:00,Dolans,info@dolans.ie,SENT,01a130c2-8a5e-7e5d-b302-db71c61fb82d
+2026-10-12T16:37:04,Nancy Blake's,bar@nancyblakes.com,SENT,01a130c2-9944-7666-a05d-95e43c0713dc
+2026-10-12T16:37:09,Fennessy's Pub,fennessyspub@gmail.com,SENT,01a130c2-aa3b-700b-97e4-cdb424e0d00b
+2026-10-12T16:37:14,Danes Bakery,info@thedanesbakery.ie,BOUNCED,01a130c2-bd55-716d-9329-a334bd709d99 | marked bounced from Resend dashboard
+2026-10-12T16:37:22,Michael O'Loughlin Butchers,michaeltrader1@gmail.com,SENT,01a130c2-dc33-738b-b1dd-67164743f6c3
+2026-10-12T16:37:27,Liam Mulcahy Sports Therapy,mulcahyinjury@hotmail.com,SENT,01a130c2-f266-79b8-b620-717419032aed
+2026-10-12T16:37:32,JB Physiotherapy,jbphysiotherapy@gmail.com,SENT,01a130c3-0463-7a85-bcbf-46b60c9aaeb7
+2026-10-12T16:37:40,Decathlon Ireland,b2b.ireland@decathlon.com,SENT,01a130c3-1982-7533-82ea-9c595173ffda
+2026-10-12T16:37:45,Intersport Elverys,online@elverys.ie,SENT,01a130c3-3704-7754-9bdd-b8aa7866933d
+2026-10-12T16:37:52,Life Style Sports,help@lifestylesports.com,SENT,01a130c3-4737-73fa-a3ad-755d15f8eea9
+2026-10-12T16:37:56,Zambrero Castletroy,castletroy@zambrero.com,SENT,01a130c3-64c7-740a-bc53-420766b0e3b4
+2026-10-12T16:37:59,Radisson Blu Hotel and Spa,sales.limerick@radissonblu.com,SENT,01a130c3-7149-787a-ac04-d79ee053d00d
+2026-10-12T16:38:03,The Savoy Hotel,reservations@savoylimerick.com,SENT,01a130c3-7df4-7030-a6fa-b6e06e361d31
+2026-10-12T16:38:06,Absolute Hotel Limerick,info@absolutehotel.com,SENT,01a130c3-8dbf-7a53-bd6d-1d8ecb8161bf
+2026-10-12T17:03:31,CityGym Limerick,stephen@citygymlk.com,SENT,01a130da-d174-79ec-a1d0-e3cae7a4d164
+2026-10-12T17:03:34,Danes Bakery,infothedanesbakery@gmail.com,SENT,01a130da-dcdf-7959-a930-e9fae056cc5e
+2026-10-12T17:16:11,Herbert & Co Solicitors,info@herbertco.ie,SENT,01a130e6-69f0-7533-830b-7d9f6574f177
+2026-10-12T17:16:14,Meehan Moroney Solicitors,info@meehanmoroney.com,SENT,01a130e6-76cf-7997-bb8b-308965a6b5d2
+2026-10-12T17:16:17,Dermot G. O'Donovan Solicitors,info@dgod.ie,SENT,01a130e6-8220-72fe-8859-5a2a3b2b45eb
+2026-10-12T17:16:20,Trevor Bowles Solicitors,trevor@bowlessolicitors.ie,SENT,01a130e6-8c57-7a3d-bb9b-fc031763e81f
+2026-10-12T17:16:22,Hayes Solicitors Limerick,hayessolicitorslimerick@gmail.com,SENT,01a130e6-976a-7eb7-a0c1-3e9e03dbebbd
+2026-10-12T17:16:25,Sweeney McGann Solicitors,enquiries@smglaw.ie,SENT,01a130e6-a1c1-70bd-be60-bd2552a58f7b
+2026-10-12T17:16:27,Hogan Dowling McNamara Solicitors,info@hdm.ie,SENT,01a130e6-abbf-775c-a043-670709d3c8d3
+2026-10-12T17:16:30,Kiely McCarthy LLP,info@kielymccarthy.ie,SENT,01a130e6-b61b-7973-8f08-85703f218a54
+2026-10-12T17:16:33,Holmes O'Malley Sexton,info@holmeslaw.ie,SENT,01a130e6-c0aa-7e41-a52b-616949dd5642
+2026-10-12T17:16:36,o'donnell+co Chartered Accountants,info@odonnellaccountants.ie,SENT,01a130e6-cb8e-7a0f-9209-d4689ed72cf0
+2026-10-12T17:16:38,McGrath & Company Accountants,info@mcgrathaccountants.com,SENT,01a130e6-d5a5-7d89-8775-9edcd249f099
+2026-10-12T17:16:41,Carey Audit Tax Advisory,accounts@careyaudittax.ie,SENT,01a130e6-dfa0-7321-8b99-85017ab55bd4
+2026-10-12T17:16:43,IFAC Limerick,limerick@ifac.ie,SENT,01a130e6-e992-75b4-a794-dfbb1c51f3f5
+2026-10-12T17:16:46,Gallivan Kennedy Insurance Group,info@gki.ie,SENT,01a130e6-f4a8-7051-aca8-37005457b97e
+2026-10-12T17:16:49,Mullane Financial Services,info@johnmullane.net,SENT,01a130e6-ff42-7d2c-af0e-776966cbea21
+2026-10-12T17:16:52,Chesser Auctioneers,info@chesser.ie,SENT,01a130e7-0a61-7427-9275-7f06bc68751e
+2026-10-12T17:16:54,Rooney Auctioneers,info@rooneys.eu,SENT,01a130e7-1539-71c0-b037-2f137fef25e4
+2026-10-12T17:16:57,Hogan Durkan Estate Agents,info@hogandurkan.ie,SENT,01a130e7-1f63-78da-9468-c6de07396b2d
+2026-10-12T17:17:00,GVM Auctioneers Limerick,limerick@gvm.ie,SENT,01a130e7-2961-72fd-8bfd-6517430488d5
+2026-10-12T17:17:03,de Courcy Estate Agents,limerick@decourcy.ie,SENT,01a130e7-3450-7ace-afef-60e34745a282
+2026-10-12T17:17:06,Sherry FitzGerald Limerick,limerick@sherryfitz.ie,SENT,01a130e7-404e-7e20-b9a2-0efed86b744a
+2026-10-12T17:17:09,Limerick City Hotel,contact@limerickcityhotel.ie,SENT,01a130e7-4cd3-7124-ac97-cac8c11c7925
+2026-10-12T17:17:14,Kilmurry Lodge Hotel,info@kilmurrylodge.com,SENT,01a130e7-5da6-7a73-ac77-11385c2d19ba
+2026-10-12T17:17:17,Castletroy Park Hotel,reservations@castletroypark.ie,SENT,01a130e7-6b12-7014-9a7b-b290b4bb1fc2
+2026-10-12T17:17:20,Limerick Strand Hotel,info@strandlimerick.ie,SENT,01a130e7-7646-730d-85e4-62638d810202
+2026-10-12T17:17:22,The George Hotel,info@georgelimerick.com,SENT,01a130e7-8170-7bf5-b594-350ed4abef9c
+2026-10-12T17:17:25,Clayton Hotel Limerick,reservations1.limerick@claytonhotels.com,SENT,01a130e7-8c1a-7032-bec6-7f73b28c4426
+2026-10-12T17:17:27,Maldron Hotel Limerick,info.limerick@maldronhotels.com,SENT,01a130e7-965c-7baf-942f-c670fe227497
+2026-10-12T17:17:30,Travelodge Limerick Castletroy,limerickcastletroy@travelodge.ie,SENT,01a130e7-a058-7335-a3b0-e41d6f59c498
+2026-10-12T17:17:33,Almeda Bed & Breakfast,info@almedabandb.com,SENT,01a130e7-ab1f-7377-8117-7ec4d05668fb
+2026-10-12T17:17:36,Fitzgeralds Woodlands Hotel & Spa,hello@woodlands-hotel.ie,SENT,01a130e7-b679-7b63-b20c-93e256b31bcd
+2026-10-12T17:17:39,Every Blooming Thing Flowers,contact@everybloomingthing.ie,SENT,01a130e7-c133-7ce2-a3c2-0dc2d6f5690a
+2026-10-12T17:17:41,About Flowers,info@aboutflowers.ie,SENT,01a130e7-caf9-795d-8251-c1c0d88d3655
+2026-10-12T17:17:43,Delaney Opticians,info@delaneyopticians.com,SENT,01a130e7-d458-7b8a-8311-156e0eda5ece
+2026-10-12T17:17:46,Hogan's Life Pharmacy,hoganslimerick@lifepharmacy.ie,SENT,01a130e7-de40-71c5-9471-baaeb6f4814e
+2026-10-12T17:17:49,Widdess Fitzgibbon Pharmacy,widdessfitzgibbon55@gmail.com,SENT,01a130e7-e935-7b6a-ac15-5c922a736007
+2026-10-12T17:17:52,OB Dental Clinic,info@obdental.ie,SENT,01a130e7-f487-7f01-aeef-a8fe16b63143
+2026-10-12T17:17:55,Noonan Dental Care Limerick,limerick@noonandentalcare.ie,SENT,01a130e7-fe37-7563-996f-31c2b1cd82b6
+2026-10-12T17:17:57,Optima Physiotherapy,info@optimaphysio.ie,SENT,01a130e8-0a95-709f-8efc-1d16307231ee
+2026-10-12T17:18:00,UPMC Sports Medicine Clinic Limerick,sportsmedicine@upmc.ie,SENT,01a130e8-15e6-75f7-ac55-815baaa44662
+2026-10-12T17:18:03,Veritas Physio,veritas.physio@gmail.com,SENT,01a130e8-2038-778b-9c10-6e645d0f54a6
+2026-10-12T17:18:06,Tuscany Bistro Castletroy,castletroy@tuscany.ie,SENT,01a130e8-2a1b-7696-9119-7e3d83532a69
+2026-10-12T17:18:08,The Unicorn Bar & Restaurant,info@theunicorn.ie,SENT,01a130e8-34d5-7625-a3eb-653408d478bc
+2026-10-12T17:18:11,Hook & Ladder Dooradoyle,info@hookandladder.ie,SENT,01a130e8-3f58-729c-8578-1809508ba0cd
+2026-10-12T17:18:13,Collins Bar Dooradoyle,info@collinsbar.ie,SENT,01a130e8-494e-77e9-aac2-af26f24fe4f6
+2026-10-12T17:18:16,Delish Cafe,info@delish.ie,SENT,01a130e8-53bb-753a-8c70-dbee66781b41
+2026-10-12T17:18:19,Marco Polo Limerick,info@marcopolo.ie,SENT,01a130e8-5deb-7e72-9116-360cdf711fdc
+2026-10-12T17:18:22,Cedar House Cafe & Restaurant,info@cedarhouse.ie,SENT,01a130e8-6964-74e3-b2e4-3cded1ff7b28
+2026-10-12T17:18:24,Lava Restaurant,lavarestaurantos@gmail.com,SENT,01a130e8-7362-7ac7-a179-b3d7ac2a4b43
+2026-10-12T17:18:27,The Locke Bar,enquiries@lockebar.com,SENT,01a130e8-7e10-7894-8292-f911a51e372a
+2026-10-12T17:18:29,Cornstore Limerick,limerick@cornstore.com,SENT,01a130e8-8716-75b0-a135-e2e78fe9e3b9
+2026-10-12T17:18:32,Flannery's Bar,info@flannerys.ie,SENT,01a130e8-9092-7822-9ffa-02ab0fc7eb6a
+2026-10-12T17:18:34,Limerick City Taxi,info@limericktaxi.net,SENT,01a130e8-9ac3-73aa-b51d-3a58a5769685
+2026-10-12T17:18:37,TK Auto Electrics,info@tkautoelectrics.com,SENT,01a130e8-a5fe-7586-a2dc-455a781c2d49
+2026-10-12T17:18:40,F&G Motor Factors,fandgmf@gmail.com,SENT,01a130e8-b063-75fc-a4f0-8e73cca42d32
+2026-10-12T17:18:42,Fota Auto Parts,fotaautoparts@gmail.com,SENT,01a130e8-ba71-7cc1-8b5a-2d221b017524
+2026-10-12T17:18:45,Ryan Tyres Limerick,info@ryantyres.ie,SENT,01a130e8-c507-7e5d-8ede-3fa85eb3a3a9
+2026-10-12T17:18:48,Snap Printing Limerick,info@limerick.snap.ie,SENT,01a130e8-d01c-704d-8bd8-b085239e7946
+2026-10-12T17:18:51,Docucentre Limerick,print@docucentre.net,SENT,01a130e8-da47-744d-b013-1d0e924f7afd
+2026-10-12T17:18:54,Studio GBM,sales@studiogbm.ie,SENT,01a130e8-e5d0-7c21-a3cb-15b6ec74ec66
+2026-10-12T17:18:56,Limerick Printing,info@limerickprinting.com,SENT,01a130e8-f150-7ee8-b4fa-86d276ca8374
+2026-10-12T17:18:59,Positive Electrical,info@positiveelectrical.ie,SENT,01a130e8-fc31-7741-a7b1-7f59db7875f0
+2026-10-12T17:19:02,MIC Courtbrack Accommodation,Accommodation@mic.ul.ie,SENT,01a130e9-06c5-7e53-9aee-16c0089fa772
+2026-10-12T17:19:05,UL Campus Accommodation,accommodation@ul.ie,SENT,01a130e9-1192-737f-9e49-5dad1f62cec9
+2026-10-12T17:19:08,Smyths Bar / Icon Nightclub,enquiries@smythsbar.com,SENT,01a130e9-1ec0-7cec-9a34-b8bcbc15c7cf
+2026-10-13T11:30:38,Bowe Dental Limerick City,limerickcity@bowedentalclinic.ie,SENT,01a134d0-6d85-72e9-af8c-d9f2c11c8d88
+2026-10-13T11:30:40,Bowe Dental Roxboro,roxboro@bowedentalclinic.ie,SENT,01a134d0-75aa-73d0-8849-a035bffe17fb
+2026-10-13T11:30:43,Guinan Dental,guinandental@gmail.com,SENT,01a134d0-7ddc-7125-b969-68d25a91b42b
+2026-10-13T11:30:45,No.8 Dental & Cosmetic Clinic,info@no8clinic.ie,SENT,01a134d0-8649-798b-9949-94b4fd3b45f0
+2026-10-13T11:30:47,Limerick Dental Specialists,info@limerickdentalspecialists.com,SENT,01a134d0-906f-7567-9079-2ec16f8a08a1
+2026-10-13T11:30:49,Mullane Endodontics,mullaneendo@gmail.com,SENT,01a134d0-9888-7eec-83ed-811d0dd1a3c9
+2026-10-13T11:30:51,O'Neill & Partners Solicitors,info@oneillsolicitors.ie,SENT,01a134d0-a0af-7e27-9873-4f7d32aba439
+2026-10-13T11:30:54,Mark Murphy Solicitors,info@markmurphysolicitors.ie,SENT,01a134d0-a8da-76d8-a67e-2a22b5065ea6
+2026-10-13T11:30:56,McMahon O'Brien Tynan Solicitors,mod@modlaw.com,SENT,01a134d0-b103-764a-a1b3-fab98ebb5c48
+2026-10-13T11:30:58,Coffey & Co Accountants,info@coffeyandco.ie,SENT,01a134d0-ba09-7cb8-9364-551231e96020
+2026-10-13T11:31:00,Murphy O'Connor Accountants,info@murphyoconnor.ie,SENT,01a134d0-c209-735a-b3ce-cf8b0d67884f
+2026-10-13T11:31:02,Somers & Associates,info@somersandassociates.ie,SENT,01a134d0-ca12-7190-a3f0-0ca779e66a6b
+2026-10-13T11:31:04,Gallagher Insurance Limerick,ie.retail.info@ajg.com,SENT,01a134d0-d219-755c-8f8f-659e3d21324d
+2026-10-13T11:31:06,Kevin Jackson Architects,info@kja.ie,SENT,01a134d0-da30-7cc4-b2a1-b788833f06cc
+2026-10-13T11:31:08,DRA Consulting Engineers,info@draconsulting.ie,SENT,01a134d0-e237-75fc-831c-f9afcdc76a0f
+2026-10-13T11:31:10,Diarmuid Keane + Associates,info@diarmuidkeane.ie,SENT,01a134d0-ea60-7522-9e2d-be84699ae87b
+2026-10-13T11:31:12,PUNCH Consulting Engineers,info@punchconsulting.com,SENT,01a134d0-f291-738c-9eae-a05d07249a70
+2026-10-13T11:31:15,AR Construction,info@arconstruction.ie,SENT,01a134d0-fac2-728a-9e48-594ec69c5a10
+2026-10-13T11:31:17,Collins BCE,info@collinsbce.ie,SENT,01a134d1-02f7-7203-8a75-2f8ca54ca508
+2026-10-13T11:31:19,BoilerTech Ltd,info@boilertech.ie,SENT,01a134d1-0c60-7b6a-82a0-121b6da9ee5f
+2026-10-13T11:31:21,KJ Electrical,info@kjelectrical.ie,SENT,01a134d1-1515-7ae5-9cd7-fd729eb6b53b
+2026-10-13T11:31:23,Pat Byrne Plumbing,info@patbyrneplumbing.ie,SENT,01a134d1-1db7-7be1-85f7-bef57c0a7b84
+2026-10-13T11:31:26,NB Gas Plumbing & Heating,info@nbgas.ie,SENT,01a134d1-25d8-713b-8c14-a0faed85365f
+2026-10-13T11:31:28,Grace's Garage,info@gracesgarage.ie,SENT,01a134d1-2dff-7004-a601-ad4379fb86e0
+2026-10-13T11:31:30,Brian Geary Toyota,info@briangeary.ie,SENT,01a134d1-3628-7c26-a241-89e2523db2b8
+2026-10-13T11:31:32,Leonards Motors,sales@leonardsmotors.ie,SENT,01a134d1-3e5e-7a7d-86e0-28039a594041
+2026-10-13T11:31:34,Raw Cycles,info@rawcycles.ie,SENT,01a134d1-485d-77a0-81a8-b405e46fc0a2
+2026-10-13T11:31:37,Limerick Veterinary Hospital,reception@lvh.ie,SENT,01a134d1-50eb-751a-8123-bb2d586fcf80
+2026-10-13T11:31:39,Rockhall Henry Street Vets,henryst@rockhallveterinary.ie,SENT,01a134d1-5905-7633-9d2a-c8f5692ab13d
+2026-10-13T11:31:41,Rockhall Clare Street Vets,clarest@rockhallveterinary.ie,SENT,01a134d1-6139-7a7c-bfcb-b9edbc600c9e
+2026-10-13T11:31:43,Rockhall Ennis Road Vets,ennisrd@rockhallveterinary.ie,SENT,01a134d1-6965-7d93-a7bb-d5f26dfd6834
+2026-10-13T11:31:45,Rockhall Shannon Vets,shannon@rockhallveterinary.ie,SENT,01a134d1-718b-7a81-8228-9ea427855d2a
+2026-10-13T11:31:47,Vision 2 Opticians,info@vision2opticians.ie,SENT,01a134d1-79c1-744d-b2c0-e693890ff03c
+2026-10-13T11:31:49,Specsavers Crescent Centre Limerick,customer.limerickcres.ie@specsavers.com,SENT,01a134d1-8203-709b-bff4-84cc9463b7ae
+2026-10-13T11:31:51,Scanlons Pharmacy,admin@scanlonspharmacy.com,SENT,01a134d1-8a36-7e96-8d1e-74a7549eed9b
+2026-10-13T11:31:53,McCabes Pharmacy Crescent,limerick@mccabespharmacy.com,SENT,01a134d1-9266-7a5f-9764-fef259f88cb6
+2026-10-13T11:31:55,Dempsey's Allcare Pharmacy,dempseys@allcarepharmacy.ie,SENT,01a134d1-9a97-7369-aaa2-2c0b86d925f5
+2026-10-13T11:31:58,InMotion Physiotherapy,info@inmotionphysio.ie,SENT,01a134d1-a2c6-7230-9b64-9eb52efc09fd
+2026-10-13T11:32:00,EF Osteopathic,info@efosteopathic.com,SENT,01a134d1-ab0c-770c-a8d4-19cb1def4781
+2026-10-13T11:32:03,Base Colour & Co,info@basecolourandco.ie,SENT,01a134d1-b4da-7365-b3c8-e0975caa164b
+2026-10-13T11:32:05,Eternal Beauty,info@eternalbeauty.ie,SENT,01a134d1-bf05-7110-a201-e8300744ad17
+2026-10-13T11:32:07,Niall Colgan Hairdressing,niallcolganhairdressing1@gmail.com,SENT,01a134d1-c791-79e7-9840-42ebd9eb2e14
+2026-10-13T11:32:09,Vanilla Browns Day Spa,info@vanillabrowns.com,SENT,01a134d1-cfca-7036-b4c8-c65f3c34bdc7
+2026-10-13T11:32:11,Flowers by Karen,flowersandgiftsbykaren@gmail.com,SENT,01a134d1-d7fe-79b9-9120-da8ffd3a69a4
+2026-10-13T11:32:13,House Limerick,welcome@houselimerick.ie,SENT,01a134d1-e022-79a1-ab3a-df107708d900
+2026-10-13T11:32:16,Gihan's Eatery Castletroy,castletroy@gihans.ie,SENT,01a134d1-e945-7cb8-98e3-99aa3249d2a6
+2026-10-13T11:32:18,The Terrace at the Arena,terraceul@masterchefs.ie,SENT,01a134d1-f1b0-729b-8e82-ed0913db079a
+2026-10-13T11:32:20,One Cake,info@onecake.ie,SENT,01a134d1-f9d1-70db-8dee-e0afce7c4054
+2026-10-13T11:32:22,Zest Cafe Raheen,raheen@zestfood.ie,SENT,01a134d2-02b3-731b-9611-d4bfd3319bda
+2026-10-13T11:32:24,Zest Cafe Pery Square,staff.limerick@zestfood.ie,SENT,01a134d2-0b09-78f1-b6c6-acfc79716070
+2026-10-13T11:32:26,Zest Cafe Ballysimon,ballysimon@zestfood.ie,SENT,01a134d2-1354-7bd2-a850-1c5112425ca1
+2026-10-13T11:32:28,1826 Adare,info@1826adare.ie,SENT,01a134d2-1b84-73a9-9a91-cd3429b89417
+2026-10-13T11:32:31,The Blue Door Adare,info@bluedooradare.com,SENT,01a134d2-23e3-7779-ad2f-383f655363b6
+2026-10-13T11:32:33,The Poppy Cup Adare,thepoppycup@gmail.com,SENT,01a134d2-2bf8-7574-b618-912e8216dbe9
+2026-10-13T11:32:35,Adare Manor,info@adaremanor.com,SENT,01a134d2-344e-7aa9-acf3-adaaa438eedd
+2026-10-13T11:32:37,Dunraven Arms Hotel,reservations@dunravenhotel.com,SENT,01a134d2-3c78-7e1b-b24f-0e24d2a887a0
+2026-10-13T11:32:39,Adare Heritage Centre,reception@adareheritagecentre.ie,SENT,01a134d2-4489-7107-8a48-5bfe6090d16c
+2026-10-13T11:32:41,Adare Glamping,hello@adareglamping.ie,SENT,01a134d2-4caf-786f-adc6-fff05f57f57d
+2026-10-13T11:32:43,Adare Machinery,info@adaremachinery.ie,SENT,01a134d2-54e7-7b57-9114-8e0e052b2f4a
+2026-10-13T11:32:45,Shannon Springs Hotel,info@shannonspringshotel.com,SENT,01a134d2-5d38-70aa-82a8-6a9c240c075b
+2026-10-13T11:32:47,Treacys Oakwood Hotel Shannon,reservations@thshannon.com,SENT,01a134d2-6568-7ee3-bc72-ca81029d5618
+2026-10-13T11:32:49,Greenhills Hotel,info@greenhillsgroup.com,SENT,01a134d2-6d7f-733b-ae35-61a85c06eb31
+2026-10-13T11:32:52,No. 1 Pery Square,info@oneperysquare.com,SENT,01a134d2-75bc-783b-a895-bf846e998200
+2026-10-13T11:32:54,Avondoyle Bed & Breakfast,avondoyle@gmail.com,SENT,01a134d2-7dfa-7808-a584-583171baed99
+2026-10-13T11:32:56,Castletroy Golf Club,golf@castletroygolfclub.ie,SENT,01a134d2-861e-78da-b24f-725a7be37ee0
+2026-10-13T11:32:58,Limerick Golf Club,information@limerickgolfclub.ie,SENT,01a134d2-8e43-7d6b-943a-2af6932077ed
+2026-10-13T11:33:00,Shannon Golf Club,info@shannongolfclub.ie,SENT,01a134d2-966e-7c8b-81f5-5960f75ca507
+2026-10-13T11:33:02,Adare Manor Golf Club,info@adaremanorgolfclub.com,SENT,01a134d2-9e9e-7e65-b58b-779eff781f9a
+2026-10-13T11:33:04,Limerick School of Music,lsominfo@lcetb.ie,SENT,01a134d2-a72e-7840-a734-f7bab24da19f
+2026-10-13T11:33:06,Dance Academy Limerick,info@danceacademylimerick.ie,SENT,01a134d2-af64-77a8-a6c8-4a9ff71c5b37
+2026-10-13T11:33:08,Dance Limerick,info@dancelimerick.ie,SENT,01a134d2-b775-7cf5-a21b-c24235ccb237
+2026-10-13T11:33:10,Limerick Shotokan Karate Club,LimerickKarate@outlook.com,SENT,01a134d2-bf6a-7726-ad8f-77f458942d52
+2026-10-13T11:33:13,Munster Rugby,info@munsterrugby.ie,SENT,01a134d2-c7a7-7894-93da-1aea3eb028b3
+2026-10-13T11:33:15,Thomond Park Stadium,info@thomondpark.ie,SENT,01a134d2-cfef-72b1-bf3c-701197e0de48
+2026-10-13T11:33:17,Limerick Races,info@limerickraces.ie,SENT,01a134d2-d803-7d1a-a2f5-10e522c010dc
+2026-10-13T11:33:19,Milk Market Limerick,info@milkmarketlimerick.ie,SENT,01a134d2-e047-714d-8df5-367e8573336c
+2026-10-13T11:33:21,Jim Flavin Butchers,jimflavinbutchers@gmail.com,SENT,01a134d2-e886-78d6-a87b-97e233235959
+2026-10-13T11:33:23,Fresh Dry Cleaners Annacotty,DominicRyanFresh@gmail.com,SENT,01a134d2-f09d-781f-97d2-cf54132c7334
+2026-10-13T11:33:25,Chapel Street Custom Tattoos,chapelstreetcustom@gmail.com,SENT,01a134d2-f8cd-7d77-9da4-217923ef32cd
+2026-10-13T11:33:27,Dental Care Ireland Limerick,limerick@dentalcareireland.ie,SENT,01a134d3-00ef-7ac4-ba3b-381d33cc30d4
+2026-10-13T11:33:29,Joyce & Co Solicitors,info@joycecosolicitors.com,SENT,01a134d3-092e-774f-83ee-604e125c64b7
+2026-10-13T11:49:01,Adare Pharmacy,info@adarepharmacy.ie,SENT,01a134e1-4107-7903-a301-2a64ac55f905
+2026-10-13T11:49:03,Raheen Pharmacy,raheenpharmacy@live.ie,SENT,01a134e1-495e-751b-90b2-ff8c1b7f153a
+2026-10-13T11:49:05,Ballinacurra Pharmacy,ballinacurrapharmacy@gmail.com,SENT,01a134e1-5175-7ab2-89e6-8ee101c65b14
+2026-10-13T11:49:07,Plunkett's Pharmacy,plunkettspharmacy@gmail.com,SENT,01a134e1-59db-776b-97ed-271d4eeed290
+2026-10-13T11:49:10,Davidson Pharmacy,davidsonpharmacy2023@gmail.com,SENT,01a134e1-61db-7093-951a-c80c83e86146
+2026-10-13T11:49:12,Haven Pharmacy Lanes (Davis Street),lanes.station@havenpharmacy.ie,SENT,01a134e1-6ace-735b-af35-736106041b42
+2026-10-13T11:49:14,Haven Pharmacy Lanes (Gerald Griffin Street),lanes.greenpark@havenpharmacy.ie,SENT,01a134e1-733f-7b9e-a9b3-d8a0bc34d8bd
+2026-10-13T11:49:16,Hogan's Pharmacy (Upper William Street),hoganspharmacy@gmail.com,SENT,01a134e1-7bb8-796a-84d2-1dd8c78b5ba3
+2026-10-13T11:49:18,McCormack's Totalhealth Pharmacy,mccormacks@totalhealth.ie,SENT,01a134e1-83da-7a01-91ff-8228087ab4db
+2026-10-13T11:49:20,Castletroy Pharmacy,pharmacy@castletroypharmacy.ie,SENT,01a134e1-8c12-74ed-9e9f-8de404ac467b
+2026-10-13T11:49:22,Morley Dental Practice,info@morleydental.ie,SENT,01a134e1-9444-742d-9312-7e7afc96436c
+2026-10-13T11:49:25,Raheen Dental Surgery,bmcdental@gmail.com,SENT,01a134e1-9c5b-7d0e-b43d-7580ae3eb305
+2026-10-13T11:49:27,Castletroy Dental Clinic,patients@castletroydentalclinic.ie,SENT,01a134e1-a595-7e7a-84f0-376298208d75
+2026-10-13T11:49:29,Victoria House Dental,info@victoriahousedental.ie,SENT,01a134e1-add9-7148-9e40-9e4d5a486198
+2026-10-13T11:49:31,Kilmallock Dental Surgery,codentalp@gmail.com,SENT,01a134e1-b5f9-7eb1-aab7-e11f77bc7b1d
+2026-10-13T11:49:33,City Vet Limerick,reception@cityvet.ie,SENT,01a134e1-becb-74d6-a811-38f935a5be0b
+2026-10-13T11:49:36,Fines Opticians,info@finesopticians.ie,SENT,01a134e1-c75e-79aa-8a07-4adbb4bd2533
+2026-10-13T11:49:38,Castletroy Park Opticians,enquiries@castletroyparkopticians.ie,SENT,01a134e1-d0a2-751b-9482-59f65d3eb22c
+2026-10-13T11:49:40,Hartmann Opticians,hartmannopticians@yahoo.co.uk,SENT,01a134e1-d8cf-75fc-818c-df9c21eab873
+2026-10-13T11:49:42,Kieran Mulcahy Solicitors,info@kieranmulcahysolicitors.com,SENT,01a134e1-e108-7833-9e8f-4ef8f75cbd4b
+2026-10-13T11:49:44,Michael D Murray & Co Solicitors,info@murraysolicitors.ie,SENT,01a134e1-e8fa-74ba-85dd-536e72d1fbaa
+2026-10-13T11:49:46,Frances Twomey & Co Solicitors,enquiries@twomeysolicitors.ie,SENT,01a134e1-f149-73a6-8f1f-38b1f045b5eb
+2026-10-13T11:49:48,Dundon Callanan Solicitors,reception@dundoncallanan.ie,SENT,01a134e1-f95e-7a41-acda-a95794eab928
+2026-10-13T11:49:51,Maurice Power Solicitors LLP,info@powersolicitors.ie,SENT,01a134e2-01c4-79ff-9ca5-5b9bdf85cb0f
+2026-10-13T11:49:53,MOET Accountants,info@moet.ie,SENT,01a134e2-0a19-7a52-994b-bb409c8491c7
+2026-10-13T11:49:55,ARAN Accounting,contact@aran-accounting.ie,SENT,01a134e2-123d-74fa-beb6-4ddc92be9054
+2026-10-13T11:49:57,Moloney O'Neill Accountants,emmett@moloneyoneill.ie,SENT,01a134e2-1ad0-77eb-87c5-ac760db4d8f6
+2026-10-13T11:49:59,Sebastian's Garage,service@sebastiansgarage.ie,SENT,01a134e2-23fc-76d0-8c73-b47e851334ed
+2026-10-13T11:50:01,PRZ Garage,przgarage@gmail.com,SENT,01a134e2-2c10-7d44-bba3-99bd04d5fad2
+2026-10-13T11:50:03,Seamus McGrath Garage,smcgrathgarage@gmail.com,SENT,01a134e2-340a-7201-a108-b763f0298200
+2026-10-13T11:50:05,Franklin's Garage Limerick,franklinsgarages@gmail.com,SENT,01a134e2-3c2d-7d04-882f-62c3f71405b2
+2026-10-13T11:50:08,Pinnacle Group,info@pinnaclegroup.ie,SENT,01a134e2-4486-7f13-bbf8-0d604eadfd1e
+2026-10-13T11:50:10,PMC Building,info@pmcbuilding.ie,SENT,01a134e2-4c8d-7d57-964f-0cf4b161d00f
+2026-10-13T11:50:12,United Electrical,info@unitedelectrical.ie,SENT,01a134e2-563e-7496-97a8-11149c9ee6df
+2026-10-13T11:50:14,J & C McMahon Builders,info@jcmcmahonbuilders.ie,SENT,01a134e2-5eab-7e0a-858e-02a1070cabfe
+2026-10-13T11:50:16,Color Couture,info@colorcouturelimerick.com,SENT,01a134e2-6719-7181-84b0-f972a36954c6
+2026-10-13T11:50:19,Visage Hair Limerick,reception@visagehairlimerick.com,SENT,01a134e2-6f53-70e3-a262-4e95787c9a05
+2026-10-13T11:50:21,Bellissimo Hair & Beauty Limerick,bellissimoreception@gmail.com,SENT,01a134e2-776c-7877-a23a-8a3eb4ce8266
+2026-10-13T11:50:23,LBeauty Spa Limerick,info@lbeauty.ie,SENT,01a134e2-7fa7-77c3-9f76-1eb392cfd8dd
+2026-10-13T11:50:25,AH Fitness,info@ahfitness.ie,SENT,01a134e2-87ea-7c76-a2a6-6375b2c71106
+2026-10-13T11:50:27,Balance Studios Limerick,info@balancestudios.ie,SENT,01a134e2-9017-7c10-abfd-71d158d9a794
+2026-10-13T11:50:29,Claire Halpin Yoga and Pilates,info@clairehalpinyogaandpilates.com,SENT,01a134e2-9832-71ed-8ed1-9930a507ecbb
+2026-10-13T11:50:31,The Hot Rooms,info@thehotrooms.ie,SENT,01a134e2-a07a-7b19-8aa2-9dda7bb492c9
+2026-10-13T11:50:33,Energie Fitness Limerick,limerick@energiefitness.com,SENT,01a134e2-a89b-7cb3-b23f-3e24726fd196
+2026-10-13T11:50:35,101 Limerick,bookings@101limerick.com,SENT,01a134e2-b0c5-7779-b3d5-3e8ee7dff61d
+2026-10-13T11:50:38,Aura Indian & Thai Cuisine,auralimerick@gmail.com,SENT,01a134e2-b934-7683-9d88-13c2caf4c3ce
+2026-10-13T11:50:40,Pharmacia,pharmacialimerick@gmail.com,SENT,01a134e2-c26c-7cc5-9361-73908325cd38
+2026-10-13T11:50:42,Ampersand Café @ Decathlon,hello@ampersandcafe.ie,SENT,01a134e2-ca7e-7422-90ff-8b0edac9ab12
+2026-10-13T11:50:44,Arabica Coffee,info@arabicalimerick.ie,SENT,01a134e2-d357-73fb-8146-f93ea6fd330b
+2026-10-13T11:50:46,Carlton Coffee,carltoncoffee13@gmail.com,SENT,01a134e2-dbc7-7101-a1bb-6cb8fb1514de
+2026-10-13T11:50:48,Flannery's Bar Shannon Street,flannerysofshannonst@gmail.com,SENT,01a134e2-e40a-7cdf-af59-f7df465e9dc3
+2026-10-13T11:50:51,Woodfield House Hotel,info@woodfield.ie,SENT,01a134e2-ec32-736b-8b79-0b65820f6efa
+2026-10-13T11:50:53,The Old Bank B&B Bruff,info@theoldbank.ie,SENT,01a134e2-f46e-7217-a0ee-38f702919114
+2026-10-13T11:50:55,Beechfield House B&B Castleconnell,info@beechfield-house.com,SENT,01a134e2-fca8-71bd-8a4a-82ddc30624a1
+2026-10-13T11:50:57,Adare Country House,adarecountryhouse@outlook.ie,SENT,01a134e3-04ee-79dc-aa45-1681bb1fe85b
+2026-10-13T11:50:59,Cafe Logr Adare,cafelogradare@gmail.com,SENT,01a134e3-0cfb-7e59-8e63-1d68985d9c84
+2026-10-13T11:51:01,Pat Collins Bar & Restaurant Adare,collinspub@gmail.com,SENT,01a134e3-1529-7339-b97d-08278a7c25cf
+2026-10-13T11:51:03,Reardon's Bar and Restaurant,minnie.reardonsrestaurant@gmail.com,SENT,01a134e3-1d55-7b8e-8a40-38e60bfef511
+2026-10-13T11:51:05,Mick's Local Abbeyfeale,mickslocalbar@gmail.com,SENT,01a134e3-2586-7925-8ae2-f19f81de670d
+2026-10-13T11:51:07,Spruce & Willow Cafe,spruceandwillow@gmail.com,SENT,01a134e3-2dbd-72fc-93aa-e2da8774b921
+2026-10-13T11:51:09,Chapter 21 Coffee,chapter21coffee@gmail.com,SENT,01a134e3-35ea-7b97-85ce-1fa31da9803f
+2026-10-13T11:51:11,Foley's @ The Pike,info@foleyspub.ie,SENT,01a134e3-3e10-7c30-99a4-6c33a332851e
+2026-10-13T11:51:14,Adare Caravan & Camping Park,adarecc@gmail.com,SENT,01a134e3-464d-79f2-95a7-fea7840ec1f1
+2026-10-13T11:51:16,Floralia Florist,joy@floralia.ie,SENT,01a134e3-4e86-72db-bdb5-e961dd6d988d
+2026-10-13T11:51:18,Pressed Flowers by Nell,info@pressedflowersbynell.com,SENT,01a134e3-56cf-7cca-bdf4-c2649c123b59
+2026-10-13T11:51:20,Garrett's Butchers Dooradoyle,dooradoyle@garretts.ie,SENT,01a134e3-5eda-7088-99c2-9bb8c1791cd4
+2026-10-13T11:51:22,O'Connell's Butchers,oconnellsoflimerick@gmail.com,SENT,01a134e3-6716-7c1c-ba94-853f2513deb1
+2026-10-13T11:51:24,Paddy McMahon Butchers,info@paddymcmahonbutchers.ie,SENT,01a134e3-6f55-735a-8519-b179a113abc3
+2026-10-13T11:51:26,Adare Cottage,info@adarecottage.ie,SENT,01a134e3-777c-77d2-b652-4b540295350f
+2026-10-13T11:51:28,Horans Healthstore William Street,horanswilliamst@gmail.com,SENT,01a134e3-8024-7da7-b713-caeb20f40734
+2026-10-13T11:51:30,Eats of Eden,eatsofedenlimerick@gmail.com,SENT,01a134e3-880d-75aa-bf95-a99cb9396f56
+2026-10-13T11:51:33,Clarative Ltd,info@clarative.ie,SENT,01a134e3-900c-770e-a9dc-f5c4db473619
+2026-10-13T11:51:35,Fitzsimons Printers,info@fitzsimonsprinters.ie,SENT,01a134e3-9a32-7677-87af-7c8d19c6c51e
+2026-10-13T11:51:37,GL Auctioneers,info@propertylimerick.com,SENT,01a134e3-a3b7-7cb9-8ea7-2c95155e838d
+2026-10-13T11:51:40,Castletroy Cabs,office@castletroycabs.com,SENT,01a134e3-ac53-7c06-ada8-7d7bfb672640
+2026-10-13T11:51:42,Limerick Lawn Tennis Club,office@lltc.ie,SENT,01a134e3-b4f3-7939-b682-c77f25f96f92
+2026-10-13T11:51:44,St Mary's RFC,secretary@stmarysrfc.ie,SENT,01a134e3-bd1e-71a0-93c8-8d428329369b
+2026-10-13T11:51:46,UL Bohemian RFC,honsec@ulbohemian.com,SENT,01a134e3-c55c-713c-9b69-67a6aa23d05a
+2026-10-13T11:51:49,Bruff RFC,secretary@bruffrfc.com,SENT,01a134e3-cea6-7ac8-9e7a-929deeb6b50a
+2026-10-13T11:51:51,Shannon RFC,secretary@shannonrfc.com,SENT,01a134e3-d7fe-7b03-91fb-9cb9c8d1dea5
+2026-10-13T11:51:53,Young Munster RFC,pro@youngmunster.com,SENT,01a134e3-e03f-7379-bb97-d6d27b20e654
+2026-10-13T11:51:55,Garryowen FC,garryowenfc.hs@gmail.com,SENT,01a134e3-e8a3-777e-adf9-b153f5835445
+2026-10-13T11:51:57,Na Piarsaigh GAA,secretary.napiarsaigh.limerick@gaa.ie,SENT,01a134e3-f179-74f1-a3d4-3b3a6057be68
+2026-10-13T11:52:00,Monaleen GAA,secretary.monaleen.limerick@gaa.ie,SENT,01a134e3-fa2c-76ae-ac84-68cd2a82047a
+2026-10-13T11:52:02,Mungret St Pauls GAA,secretary.mungret.limerick@gaa.ie,SENT,01a134e4-03b0-762c-a2ad-f9e4d0ef20ce
+2026-10-13T11:52:04,Old Christians GAA,secretary.oldchristians.limerick@gaa.ie,SENT,01a134e4-0bdd-7e49-a7cc-26dff819b78f
+2026-10-13T11:52:06,Patrickswell GAA,secretary.patrickswell.limerick@gaa.ie,SENT,01a134e4-1423-7766-8172-118462817485
+2026-10-13T11:52:08,Claughaun GAA,secretary.claughaun.limerick@gaa.ie,SENT,01a134e4-1ccd-7cc5-931b-248bdb6acd03
+2026-10-13T11:52:11,Abbey Sarsfields GAA,secretary.abbeysarsfields.limerick@gaa.ie,SENT,01a134e4-253c-7287-a0da-89dbbeaa0d1a
+2026-10-13T11:52:13,Ballinacurra Gaels GAA,secretary.ballinacurragaels.limerick@gaa.ie,SENT,01a134e4-2dab-7959-a11b-863b400fcebb
+2026-10-13T11:52:15,Ballybrown GAA,secretary.ballybrown.limerick@gaa.ie,SENT,01a134e4-35f6-7611-ad3c-e649347de7a1
+2026-10-13T11:52:17,St Patrick's GAA Limerick,secretary.stpatricks.limerick@gaa.ie,SENT,01a134e4-3e30-7968-ab66-8becf235328e
+2026-10-13T11:52:19,Adare GAA,secretary.adare.limerick@gaa.ie,SENT,01a134e4-4657-7002-93f6-2f81fa59b6f0
+2026-10-13T11:52:21,Kildimo Pallaskenry GAA,secretary.kildimopallaskenry.limerick@gaa.ie,SENT,01a134e4-4e84-7f0b-acc8-90bdb46511b8
+2026-10-13T11:52:24,Crecora Manister GAA,secretary.crecora.limerick@gaa.ie,SENT,01a134e4-57e5-755f-9590-73e9dc106bb0
+2026-10-13T11:52:26,UL Student Test Inbox,23374039@studentmail.ul.ie,SENT,01a134e4-6018-7102-8a34-19931dce6782
+2026-10-13T14:10:16,Red Hen Bar,info@redhenbarlimerick.ie,SENT,01a13562-9067-7e11-992d-d03573251084
+2026-10-13T14:10:18,Bambu Restaurant,info@bamburestaurant.ie,SENT,01a13562-99e3-79f6-89ea-d9c78fb2fb19
+2026-10-13T14:10:21,Advance Physio Limerick,info@physio-limerick.ie,SENT,01a13562-a33e-77e5-a628-9e6bae68289b
+2026-10-13T14:10:23,EL Physio,elphysioclinic@gmail.com,SENT,01a13562-abad-78c0-bd7a-3ffc429180f6
+2026-10-13T14:10:25,Energize Health Club,energize@strandlimerick.ie,SENT,01a13562-b449-750d-b137-53d1732b30ee
+2026-10-13T14:10:27,Bunratty Castle Hotel,info@bunrattycastlehotel.com,SENT,01a13562-bd90-7253-ad97-c8136d80ead5
+2026-10-13T14:10:30,Castle Oaks House Hotel,info@castleoaks.ie,SENT,01a13562-c605-7da5-a57d-e7553a827c39
+2026-10-13T14:10:32,Breathe Better Yoga,info@breathebetteryoga.com,SENT,01a13562-cf4a-76f7-956e-3dc54654e182
+2026-10-13T14:10:34,The Pilates Room,reception@thepilatesroom.ie,SENT,01a13562-d81e-78d9-8017-d2e990b4dc07
+2026-10-13T14:10:36,Gym+Coffee Crescent,hello@gympluscoffee.com,SENT,01a13562-e085-7be4-87e2-1f42a8e37018
+2026-10-13T14:10:38,Hong Kong Chinese Restaurant,info@hongkong.ie,SENT,01a13562-e8e2-743d-bed6-548aa89ae751
+2026-10-13T14:10:41,Raasta Foods,info.raastafoods@gmail.com,SENT,01a13562-f1b1-7259-a94a-ab3cad58a211
+2026-10-13T14:10:43,Wokking,info@wokking.ie,SENT,01a13562-fae1-72b0-99cd-4afd6d8d42f2
+2026-10-13T14:10:45,Bella Italia,info@bellaitalia.ie,SENT,01a13563-02e8-7240-ab63-d17d0537434e
+2026-10-13T14:10:47,Camile Thai Limerick,support@camile.ie,SENT,01a13563-0b3f-7606-a52e-2ea3d032dde1
+2026-10-13T14:10:49,Conlans BMW,info@conlansbmw.ie,SENT,01a13563-1361-7d36-b11b-8c6d6cc9970d
+2026-10-13T14:10:52,Audi Limerick,info@audilimerick.ie,SENT,01a13563-1cf0-7318-9544-4a4b4268275b
+2026-10-13T14:10:54,Sheils Motor Group Limerick,saleslimerick@sheils.ie,SENT,01a13563-25fb-78e8-931d-17153802a684
+2026-10-13T14:10:56,Zweton Annacotty,info@zweton.com,SENT,01a13563-2e5a-743f-8639-1089e1a5403e
+2026-10-13T14:10:58,Cyril Morgan Hair,info@cyrilmorgan.ie,SENT,01a13563-3679-7d8f-87ff-17dc0d1d575f
+2026-10-13T14:11:01,Ravens Hair Salon,ravenshairsalon@gmail.com,SENT,01a13563-4006-76bf-a045-f5464184fae1
+2026-10-13T14:11:03,Curlz Hair Salon,info@curlzhairsalon.ie,SENT,01a13563-4959-7a0c-87e7-60c93fcba023
+2026-10-13T14:11:04,Glow Pilates,hello@glowpilates.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:04,Women's Fitness Plus Limerick,limerick@womensfitness.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:05,Gray's Totalhealth Pharmacy,grays@totalhealth.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:06,The Prescription Centre,info@rxcentre.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:07,Helen McCormack Estate Agents,info@mcea.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:07,O'Connor Murphy,info@oconnormurphy.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:08,Wallace Real Estate,twallace@wre.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:09,The Finance Shop,tom@thefinanceshop.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:09,Cornmarket Financial Services Limerick,paul.tinney@cmfs.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:10,Kieran O'Brien & Associates Solicitors,contact@kieranobriensolicitor.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:11,FDC Limerick,limerick@fdc.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:11,PJ's Garage and Car Sales,sales@pjsgarage.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:12,Allens of Limerick,limerick@allens.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:12,Mike O'Connells Menswear,info@mikeoconnells.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:13,O'Donnell Boutique,info@codonnell.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:14,RockNShop,rocknshop.ie@gmail.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:14,Brookfield Hall Student Accommodation,limerickstudents@mcp.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:15,City Campus Limerick,citycampus@mcp.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:15,Punchs Residence,info@pmi.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:16,Limerick School of Motoring,info@limerickschoolofmotoring.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:16,Nessan School of Motoring,bookings@nessan.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:17,Turnabout Driving School,Limerick@turnaboutdrivingschool.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:18,Longcourt House Hotel,info@longcourthousehotel.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:18,Deebert House Hotel,info@deeberthousehotel.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:19,Bulgaden Castle and Poachers Restaurant,conal@bulgadencastle.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:19,O'Mahony's Booksellers,Reception@OMahonys.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:20,Matthew Stephens Jewellers,info@matthewstephens.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:20,Marguerite's Bakery and Restaurant,margueritesbakery@gmail.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:21,Dan Cronin's Bar and Bistro,dancroninsbar@gmail.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:21,Truly Irish Country Foods,office@trulyirish.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:22,Barnagh Greenway Hub,info@barnaghgreenwayhub.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:22,Killaloe Hotel and Spa,info@killaloehotel.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:23,Flanagan's on the Lake,flanagansfunctions@gmail.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:24,Morning Star Photography,hello@morningstar.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:24,John McGarry Photography and Video,info@jmcgphoto.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:25,Digital Marketing Limerick,info@digitalmarketinglimerick.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:26,Bazinga Media,info@bazinga.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:26,Kincora Design Studio,john@kincoradesignstudio.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:27,Denote,hello@denote.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:28,Caseys Furniture Limerick,info@caseys.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:28,J&B Furniture,sales@jbfurniture.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:29,McCarthy Furniture,mccarthybeds@gmail.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:29,Arramount Furniture Limerick,limerick@arramount.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:30,Limerick Computers,info@limerickcomputers.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:31,Healy Partners Architects,mail@healypartners.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:31,Quinn Architects,info@quinnarchitects.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:32,BDB Consulting,info@bdb.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:32,Glenstal Foods,info@glenstalfoods.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:33,Glen Aine Foods,info@glenaine.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:33,Treaty Veterinary Hospital,mail@tvh.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:34,Allstar Ink Tattoo,allstarink@gmail.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:34,Black Valley Tattoo Gallery,daraghlocketattooing@gmail.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:35,Sands of Time Tattoo Collective,Sottattoo@gmail.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:35,The Sherwood Inn Ennis,info@thesherwood.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:36,Henry's Bistro and Wine Bar,bookings@henrysofennis.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:37,Bridget Haren Hair and Beauty,info@bridgetharen.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:37,The County Boutique,info@countyboutique.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:38,Patrick Bourke Menswear,info@patrickbourkemenswear.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:38,Sweet'n'Green Ennis,sweetngreenennis@gmail.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:39,Vamp Lingerie,joanvamp@gmail.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:39,Siege Coffee Company,siegecoffeecompany@gmail.com,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:40,Eleven14,hello@eleven14.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:41,SOS Cookies,info@soscookies.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:42,Castle Oaks Leisure Club,leisure@castleoaks.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:42,Troy Packaging,info@troypackaging.ie,ERROR,You have reached your daily email sending quota.
+2026-10-13T14:11:43,myplumber.ie,info@myplumber.ie,ERROR,You have reached your daily email sending quota.
+2026-10-14T12:05:53,RockNShop,rocknshop.ie@gmail.com,SENT,01a13a17-0dab-78ec-80f5-8fed864143f6
+2026-10-14T12:05:55,Marguerite's Bakery and Restaurant,margueritesbakery@gmail.com,SENT,01a13a17-15fc-7b2b-beb4-1c302ce6813a
+2026-10-14T12:05:57,Dan Cronin's Bar and Bistro,dancroninsbar@gmail.com,SENT,01a13a17-1e8b-7bc3-8759-1c902f0eae01
+2026-10-14T12:06:00,Flanagan's on the Lake,flanagansfunctions@gmail.com,SENT,01a13a17-26ec-7f09-be82-795f997f3339
+2026-10-14T12:06:02,McCarthy Furniture,mccarthybeds@gmail.com,SENT,01a13a17-2fc6-7e21-a459-c2f891ddbbe3
+2026-10-14T12:06:04,Allstar Ink Tattoo,allstarink@gmail.com,SENT,01a13a17-3850-7c92-832d-09386801079e
+2026-10-14T12:06:06,Black Valley Tattoo Gallery,daraghlocketattooing@gmail.com,SENT,01a13a17-4162-7e0d-8f0a-b66e5e51dd84
+2026-10-14T12:06:08,Sands of Time Tattoo Collective,Sottattoo@gmail.com,SENT,01a13a17-49cc-7e15-a018-94bd172de9a8
+2026-10-14T12:06:11,Sweet'n'Green Ennis,sweetngreenennis@gmail.com,SENT,01a13a17-51cd-7287-9994-a50b9a75698b
+2026-10-14T12:06:13,Vamp Lingerie,joanvamp@gmail.com,SENT,01a13a17-5a2e-700e-b36d-b12532d5c69e
+2026-10-14T12:06:15,Siege Coffee Company,siegecoffeecompany@gmail.com,SENT,01a13a17-62fe-7d09-b851-d3abe6fbe690
+2026-10-14T12:06:18,Glow Pilates,hello@glowpilates.ie,SENT,01a13a17-6b6d-7f29-a433-2f758b3f13a4
+2026-10-14T12:06:20,Women's Fitness Plus Limerick,limerick@womensfitness.ie,SENT,01a13a17-75b4-7c91-bb26-13e0c9bfbee5
+2026-10-14T12:06:22,Gray's Totalhealth Pharmacy,grays@totalhealth.ie,SENT,01a13a17-7e03-7765-8379-2244e20c25f6
+2026-10-14T12:06:24,The Prescription Centre,info@rxcentre.ie,SENT,01a13a17-861a-7583-8a3d-821971758d33
+2026-10-14T12:06:27,Helen McCormack Estate Agents,info@mcea.ie,SENT,01a13a17-9091-72bc-9aa8-78130a5db1f7
+2026-10-14T12:06:29,O'Connor Murphy,info@oconnormurphy.ie,SENT,01a13a17-98e5-790c-9b72-c49a2a0a323b
+2026-10-14T12:06:31,Wallace Real Estate,twallace@wre.ie,SENT,01a13a17-a0f9-79f5-8f8c-94f8388eb386
+2026-10-14T12:06:33,The Finance Shop,tom@thefinanceshop.ie,SENT,01a13a17-a9dc-787e-a5b9-1c5f351496e8
+2026-10-14T12:06:35,Cornmarket Financial Services Limerick,paul.tinney@cmfs.ie,SENT,01a13a17-b366-78fb-b449-20f754592a6c
+2026-10-14T12:06:38,Kieran O'Brien & Associates Solicitors,contact@kieranobriensolicitor.com,SENT,01a13a17-bb8f-707f-b16c-6059111fae87
+2026-10-14T12:06:40,FDC Limerick,limerick@fdc.ie,SENT,01a13a17-c561-7610-831c-98a952d964c1
+2026-10-14T12:06:42,PJ's Garage and Car Sales,sales@pjsgarage.ie,SENT,01a13a17-cdb8-7629-aeba-771b5c5da14b
+2026-10-14T12:06:45,Allens of Limerick,limerick@allens.ie,SENT,01a13a17-d70c-73ea-8c20-d7b0104f0bda
+2026-10-14T12:06:47,Mike O'Connells Menswear,info@mikeoconnells.com,SENT,01a13a17-df27-7d88-8135-ff154682e874
+2026-10-14T12:06:49,O'Donnell Boutique,info@codonnell.ie,SENT,01a13a17-e751-7f3b-b120-58199d357eb4
+2026-10-14T12:06:51,Brookfield Hall Student Accommodation,limerickstudents@mcp.ie,SENT,01a13a17-efa1-7589-be3f-7633ba897d3c
+2026-10-14T12:06:54,City Campus Limerick,citycampus@mcp.ie,SENT,01a13a17-f934-7125-98f4-27e10fdff045
+2026-10-14T12:06:56,Punchs Residence,info@pmi.ie,SENT,01a13a18-02dc-705c-8690-f44460bcdecb
+2026-10-14T12:06:58,Limerick School of Motoring,info@limerickschoolofmotoring.ie,SENT,01a13a18-0b33-702a-9b6e-a75b437ea891
+2026-10-14T12:07:00,Nessan School of Motoring,bookings@nessan.ie,SENT,01a13a18-1457-7660-9239-098371d3c709
+2026-10-14T12:07:03,Turnabout Driving School,Limerick@turnaboutdrivingschool.ie,SENT,01a13a18-1d56-7e68-8b44-39171e60ce64
+2026-10-14T12:07:05,Longcourt House Hotel,info@longcourthousehotel.ie,SENT,01a13a18-2606-71b6-a002-4b8e1ebcd09b
+2026-10-14T12:07:07,Deebert House Hotel,info@deeberthousehotel.com,SENT,01a13a18-2e05-7dde-b49c-44e8f06406cc
+2026-10-14T12:07:10,Bulgaden Castle and Poachers Restaurant,conal@bulgadencastle.com,SENT,01a13a18-3839-72ee-851e-e86055bdd9cb
+2026-10-14T12:07:13,O'Mahony's Booksellers,Reception@OMahonys.ie,SENT,01a13a18-42a2-7d96-be09-aa4c4244b6d5
+2026-10-14T12:07:15,Matthew Stephens Jewellers,info@matthewstephens.ie,SENT,01a13a18-4ca5-718b-8be1-06ee84abb584
+2026-10-14T12:07:17,Truly Irish Country Foods,office@trulyirish.ie,SENT,01a13a18-54ec-7adf-900f-923eea481107
+2026-10-14T12:07:19,Barnagh Greenway Hub,info@barnaghgreenwayhub.ie,SENT,01a13a18-5d52-73e0-b942-0548b0a1c7f6
+2026-10-14T12:07:22,Killaloe Hotel and Spa,info@killaloehotel.ie,SENT,01a13a18-6783-7ee5-81de-7cf89369e66c
+2026-10-14T12:07:24,Morning Star Photography,hello@morningstar.ie,SENT,01a13a18-6fb3-7301-89e2-6b78d3b6e9de
+2026-10-14T12:07:26,John McGarry Photography and Video,info@jmcgphoto.com,SENT,01a13a18-77da-7a42-82d7-f36a74891ae8
+2026-10-14T12:07:28,Digital Marketing Limerick,info@digitalmarketinglimerick.ie,SENT,01a13a18-822c-73cf-833b-15c31579ec1c
+2026-10-14T12:07:31,Bazinga Media,info@bazinga.ie,SENT,01a13a18-8a5f-70ea-9c03-f5aec32039a2
+2026-10-14T12:07:33,Kincora Design Studio,john@kincoradesignstudio.com,SENT,01a13a18-9458-7054-82cd-9972a1971f86
+2026-10-14T12:07:35,Denote,hello@denote.ie,SENT,01a13a18-9c9c-737f-b795-b0e7289953db
+2026-10-14T12:07:37,Caseys Furniture Limerick,info@caseys.ie,SENT,01a13a18-a529-7284-bd1f-ce235457d878
+2026-10-14T12:07:40,J&B Furniture,sales@jbfurniture.ie,SENT,01a13a18-ad25-74aa-9264-01b362bfcbe4
+2026-10-14T12:07:42,Arramount Furniture Limerick,limerick@arramount.ie,SENT,01a13a18-b6e7-7c85-923f-a4673111da3b
+2026-10-14T12:07:45,Limerick Computers,info@limerickcomputers.ie,SENT,01a13a18-c144-7258-8e05-1b73d76b259d
+2026-10-14T12:07:47,Healy Partners Architects,mail@healypartners.com,SENT,01a13a18-c99d-7a35-89bb-0822aa8dd6a0
+2026-10-14T12:07:49,Quinn Architects,info@quinnarchitects.ie,SENT,01a13a18-d1db-79d9-a20d-ddc231f8be6c
+2026-10-14T12:07:51,BDB Consulting,info@bdb.ie,SENT,01a13a18-da1e-7bfa-85c4-99ea721e2a33
+2026-10-14T12:07:54,Glenstal Foods,info@glenstalfoods.com,SENT,01a13a18-e41b-70f0-94ff-c76edc22db88
+2026-10-14T12:07:56,Glen Aine Foods,info@glenaine.com,SENT,01a13a18-ec8e-7e7e-a8b3-b0a1ba51b579
+2026-10-14T12:07:58,Treaty Veterinary Hospital,mail@tvh.ie,SENT,01a13a18-f4ab-741e-bc76-9cab2652723f
+2026-10-14T12:08:00,The Sherwood Inn Ennis,info@thesherwood.ie,SENT,01a13a18-fcd6-782d-b4b8-659ec453cf45
+2026-10-14T12:08:02,Henry's Bistro and Wine Bar,bookings@henrysofennis.ie,SENT,01a13a19-05e3-7bb2-a620-7ba013eee6ea
+2026-10-14T12:08:05,Bridget Haren Hair and Beauty,info@bridgetharen.com,SENT,01a13a19-0f61-73bf-859e-fa42fbfc6beb
+2026-10-14T12:08:07,The County Boutique,info@countyboutique.ie,SENT,01a13a19-1796-70a4-841a-8a559ce9c2cf
+2026-10-14T12:08:09,Patrick Bourke Menswear,info@patrickbourkemenswear.ie,SENT,01a13a19-1ff6-76f5-a933-6ec4fef06ad0
+2026-10-14T12:08:11,Eleven14,hello@eleven14.ie,SENT,01a13a19-27f5-7b75-866a-81841041b89d
+2026-10-14T12:08:13,SOS Cookies,info@soscookies.ie,SENT,01a13a19-3010-74de-8adc-0d6553dec5d6
+2026-10-14T12:08:15,Castle Oaks Leisure Club,leisure@castleoaks.ie,SENT,01a13a19-384a-758e-92dc-2466774cf504
+2026-10-14T12:08:17,Troy Packaging,info@troypackaging.ie,SENT,01a13a19-40b8-72e0-9b7e-92481f4fa0e5
+2026-10-14T12:08:20,myplumber.ie,info@myplumber.ie,SENT,01a13a19-4a4a-7946-8fc1-c4cef66bbff2
